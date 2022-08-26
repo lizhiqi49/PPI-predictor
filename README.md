@@ -5,7 +5,7 @@ A graph neural network (GNN) model to predict protein-protein interactions (PPI)
 
 ### Overview
 
-This is a simple graph convolutional network (GCN) to predict the protein-protein interactions. There are 2 datasets: a large one and a small one. The useful informations in the dataset are only known protein-protein interactions and the bioinformatic database query of proteins. Since crawling more informations from the database is troublesome, in this project, I want to predict PPIs with only there known interaction relationships, so GCN is utilized.
+This is a simple graph convolutional network (GCN) to predict the protein-protein interactions. There are 2 datasets: a large one and a small one. The useful information in the dataset are only known protein-protein interactions and the bioinformatic database query of proteins. Since crawling more information from the public database is troublesome, in this project, I want to predict PPIs with only their known interaction relationships, so GCN is utilized.
 
 
 
